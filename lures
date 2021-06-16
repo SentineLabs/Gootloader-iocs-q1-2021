@@ -1,0 +1,235 @@
+Below are listed some of  the most relevant lures along with the embedded URLs used for the delivery of the payloads:
+
+Name:		milpds
+SHA 256:	29ac3699649d8b3eb1da81b67f212960a75d3564bc30bada498deafd25717503
+First Seen:	2021-03-24
+Lure:		US mil
+Extracted URLs:
+		https://www[.]hagdahls[.]com/search[.]php?ulxoflokgzjuj=
+		https://www[.]handekazanova[.]com/search[.]php?ulxoflokgzjuj=
+		https://www[.]hoteladler[.]it/search[.]php?ulxoflokgzjuj=
+Compromised Domains:
+		www[.]hagdahl[.]com
+		www[.]hoteladler[.]it
+		www[.]handekazanova[.]com
+	
+Name:		memorandum_of_agreement_us_arm7
+SHA 256:	fd6fab7fbe6bb855113077536cce583bc4e344691d1e72935c0a5c034cb21cc7
+First Seen:	2021-04-08
+Lure:		US mil
+Extracted URLs:
+		https://www[.]joseph-koenig-gymnasium[.]de/search[.]php?xksrabkxexxje=
+		https://www[.]hccpa[.]com[.]tw/search[.]php?xksrabkxexxje=
+		https://www[.]hrgenius-uk[.]com/search[.]php?xksrabkxexxje=
+Compromised Domains:
+		www[.]hccpa[.]com[.]tw
+		www[.]hrgenius-uk[.]com
+		www[.]joseph-koenig-gymnasium[.]de
+	
+Name:		rate_switch_agreement_lma[.]js
+SHA 256:	7017ba52f3c8f01955b699e682c5f7866be3a7c8f9b197d804a82e168f500c6d
+First Seen:	2021-03-23
+Lure:		Loan Estate
+Extracted URLs:
+		https://www[.]hagdahls[.]com/search[.]php?zlurylnryiaupe=
+		https://www[.]handekazanova[.]com/search[.]php?zlurylnryiaupe=
+		https://www[.]hoteladler[.]it/search[.]php?zlurylnryiaupe=
+Compromised Domains:
+		www[.]handekazanova[.]com
+		www[.]hagdahls[.]com
+		www[.]hoteladler[.]it
+		
+Name:		milpds_user_agreement[.]js
+SHA 256:	a9180105442b4e571835158205b8e73f2970d69b7b5476c82a6c79fa12b7dbf4
+First Seen:	2021-04-05
+Lure:		US Air Force
+Extracted URLs:
+		https://www[.]hoteladler[.]it/search[.]php?ulxoflokgzjuj=
+		https://www[.]handekazanova[.]com/search[.]php?ulxoflokgzjuj=
+		https://www[.]hagdahls[.]com/search[.]php?ulxoflokgzjuj=
+Compromised Domains:
+		www[.]hagdahls[.]com
+		www[.]hoteladler[.]it
+		www[.]handekazanova[.]com
+	
+Name:		nasdaq_consolidated_subscriber_agreement[.]zip
+SHA 256:	aae1df9c3d558d995d8eba82dc3e438d436e9467b97fe2fc99c72b02e9031326
+First Seen:	2021-04-13
+Lure:		Financial
+Extracted URLs:
+		https://www[.]hrgenius-uk[.]com/search[.]php?frzlewezxuqra=
+		https://www[.]kartatatrzanska[.]pl/search[.]php?frzlewezxuqra=
+		https://www[.]joseph-koenig-gymnasium[.]de/search[.]php?frzlewezxuqra=
+Compromised Domains:
+		www[.]hrgenius-uk[.]com
+		www[.]joseph-koenig-gymnasium[.]de
+		www[.]kartatatrzanska[.]pl
+	
+Name:		hno_green_fuels_stock_purchase_agreement[.]zip
+SHA 256:	a56bcb77419b3f4eb026e26c107a318cf182c9663e5c22331789cbe1826ca3c0
+First Seen:	2021-04-01
+Lure:		Manufacturing
+Extracted URLs:
+		https://www[.]hccpa[.]com[.]tw/search[.]php?wehzijrczmewt=
+		https://www[.]hoteladler[.]it/search[.]php?wehzijrczmewt=
+		https://www[.]handekazanova[.]com/search[.]php?wehzijrczmewt=
+Compromised Domains:
+		www[.]handekazanova[.]com
+		www[.]hccpa[.]com[.]tw
+		www[.]hoteladler[.]it
+	
+Name:		morgan_stanley_brokerage_account_agreement[.]js
+SHA 256:	fee398173e76a9bc5ff527b8a469374f32a62d8c1b7913edd56d64ef5a9a198e
+First Seen:	2021-03-25
+Lure:		Financial
+Extracted URLs:
+		https://www[.]hoteladler[.]it/search[.]php?btvhenvucpmtvpta=
+		https://www[.]hagdahls[.]com/search[.]php?btvhenvucpmtvpta=
+		https://www[.]handekazanova[.]com/search[.]php?btvhenvucpmtvpta=
+Compromised Domains:
+		www[.]handekazanova[.]com
+		www[.]hoteladler[.]it
+		www[.]hagdahls[.]com
+	
+Name:		paypal_billing_agreement_ebay[.]js
+SHA 256:	e33fe24eb8893ba8583ac1c947986569ee540b7dd0a9a9f14668066146d8980b
+First Seen:	2021-04-02 
+Lure:		Financial
+Extracted URLs:
+		https://www[.]hoteladler[.]it/search[.]php?iywoiqoagiqj=
+		https://www[.]hccpa[.]com[.]tw/search[.]php?iywoiqoagiqj=
+		https://www[.]handekazanova[.]com/search[.]php?iywoiqoagiqj=
+Compromised Domains:
+		www[.]handekazanova[.]com
+		www[.]hccpa[.]com[.]tw
+		www[.]hoteladler[.]it
+	
+Name:		wells_fargo_brokerage_account_agreement[.]js
+SHA 256:	ba47c67834fe76e0a4df5ccd28411acb324571eb6e0f9c93593de2061db727e1
+First Seen:	2021-01-21
+Lure:		Trading/Financial
+Extracted URLs:
+		https://www[.]communityhall dp[.]org[.]uk/search[.]php?vzhnbqsvkxxndgem=
+		https://www[.]cwa1037[.]org/search[.]php?vzhnbqsvkxxndgem=
+		https://www[.]cristianivanciu[.]ro/search[.]php?vzhnbqsvkxxndgem=
+Compromised Domains:
+		www[.]edmondoberselli[.]net
+		www[.]cwa1037[.]org
+		www[.]ehiac[.]com
+	
+Name:		self_directed_ira_operating_agreement[.]js
+SHA 256:	8f7f28766b3240c6b954c5c7e275b717d81b5e2dafde870892813d097c484eb7
+First Seen:	2021-01-01
+Lure:		Estate/Investment
+Extracted URLs:
+		https://www[.]charismatrade[.]ro/search[.]php?bhqtjmvrrnpttw=
+		https://www[.]cljphotographyny[.]com/search[.]php?bhqtjmvrrnpttw=
+		https://www[.]commitment[.]co[.]at/search[.]php?bhqtjmvrrnpttw=
+Compromised Domains:
+		www[.]cljphotographyny[.]com
+		www[.]charismatrade[.]ro
+		www[.]commitment[.]co[.]at
+	
+Name:		유니티_무료(fl)[.]js
+SHA 256:	952aad2009adb50666f95271bb4d133e8bf14203f8c001dad508c95d207fad20
+First Seen:	2021-04-17
+Lure:		“Unity” framework Game]
+Extracted URLs:
+		https://www[.]kartatatrzanskapl/search[.]php?eocgmkffnazqm=
+		https://www[.]hrgenius-uk[.]com/search[.]php?eocgmkffnazqm=
+		https://www[.]joseph-koenig-gymnasium[.]de/search[.]php?eocgmkffnazqm=
+Compromised Domains:
+		www[.]hrgenius-uk[.]com
+		www[.]kartatatrzanska[.]pl
+		www[.]joseph-koenig-gymnasium[.]de
+	
+Name:		texas_mineral_rights_acknowledgment_and_agreement[.]js
+SHA 256:	626d82ed1f888319139bc67d8cc4e53c5e8da0238ab3e2c5585b50917f958ed1
+First Seen:	2021-04-19
+Lure:		texas_mineral_mines
+Extracted URLs:
+		https://www[.]giuseppedeluigi[.]com/search[.]php?xrplomnpnofoc=
+		https://www[.]handekazanova[.]com/search[.]php?xrplomnpnofoc=
+		https://www[.]hagdahls[.]com/search[.]php?xrplomnpnofoc=
+Compromised Domains:
+		www[.]hagdahls[.]com
+		www[.]handekazanova[.]com
+		www[.]giuseppedeluigi[.]com
+	
+Name:		anfrage_beim_nachlassgericht_nach_erben_muster[.]js
+SHA 256:	23b125dadd5f0497e084f82b15a59ebee11f7c9eaad6bcecd7baf7103f05c9d3
+First Seen:	2021-04-15
+Lure:		German Duke Muster
+Extracted URLs:
+		https://www[.]espai30lasagrera[.]cat/search[.]php?mnxcmedoofhmjhob=
+		https://www[.]esist[.]org/search[.]php?mnxcmedoofhmjhob=
+		https://www[.]dischner-kartsportde/search[.]php?mnxcmedoofhmjhob=
+Compromised Domains:
+		www[.]esist[.]org
+		www[.]dischner-kartsport[.]de
+		www[.]espai30lasagrera[.]cat
+	
+Name:		isda_fia_cleared_derivatives_execution_agreement_2017[.]js
+SHA 256:	7b205e3e2e45ec4fefff0bb39171f7469fb34d4c85c7eeb61bd8adab335258ee
+First Seen:	2021-04-23
+Lure:		FIA
+Extracted URLs:
+		https://www[.]kettlebellgie[.]be/search[.]php?jhxljxkiggzmdb=
+		https://www[.]joseph-koenig-gymnasium[.]de/search[.]php?jhxljxkiggzmdb=
+		https://www[.]kartatatrzanska[.]pl/search[.]php?jhxljxkiggzmdb=
+Compromised Domains:
+		www[.]kettlebellgie[.]be
+		www[.]kartatatrzanska[.]pl
+		www[.]joseph-koenig-gymnasium[.]de
+	
+Name:		tarifvertrag_sparda_bank_südwest[.]js
+SHA 256:	45d7b0cd5a6793eb7dd7e93c5be68b3f3501d6b5f0d49854eea9eebfb66fc740
+First Seen:	2021-04-15
+Lure:		Sparda Bank
+Extracted URLs:
+		https://www[.]giuseppedeluigi[.]com/search[.]php?olwakhzcqflqrbln=
+		https://www[.]frerecapucinbenin[.]org/search[.]php?olwakhzcqflqrbln=
+		https://www[.]forumeuropeendebioethique[.]eu/search[.]php?olwakhzcqflqrbln=
+Compromised Domains:
+		www[.]forumeuropeendebioethique[.]eu
+		www[.]frerecapucinbenin[.]org
+		www[.]giuseppedeluigi[.]com
+	
+Name:		tarifvertrag_einzelhandel_gehaltsgruppen_bayern[.]js
+SHA 256:	8d639f73532baa734498ec4aaa97daf22445c40714ef265e55de1ad74a9a2e3b
+First Seen:	2021-02-15
+Lure:		Bayern
+Extracted URLs:
+		https://www[.]forumeuropeendebioethique[.]eu/search[.]php?hmdfwcokgjutia=
+		https://www[.]formenbau-jaeger[.]de/search[.]php?hmdfwcokgjutia=
+		https://www[.]fabiancoutoxp[.]com[.]ar/search[.]php?hmdfwcokgjutia=
+Compromised Domains:
+		www[.]forumeuropeendebioethique[.]eu
+		www[.]formenbau-jaeger[.]de
+		www[.]fabiancoutoxp[.]com[.]ar
+	
+Name:		ford_special_characteristics_communication_and_agreement_form[.]js
+SHA 256:	72d9b314746be86ff25970468017bcdd0c6227a22b61daab65258c0cc0a28052
+First Seen:	2021-03-03
+Lure:		Ford
+Extracted URLs:
+		https://www[.]giuseppedeluigi[.]com/search[.]php?jrnfrcbxrmwnr=
+		https://www[.]frerecapucinbenin[.]org/search[.]php?jrnfrcbxrmwnr=
+		https://www[.]forumeuropeendebioethique[.]eu/search[.]php?jrnfrcbxrmwnr=
+Compromised Domains:
+		www[.]giuseppedeluigi[.]com
+		www[.]forumeuropeendebioethique[.]eu
+		www[.]frerecapucinbenin[.]org
+	
+Name:		aipn_model_farmout_agreement[.]txt
+SHA 256:	650feb4f4921ebf62f436c53ef4ad837902906a3bebd7ce4c919915bd320bc54
+First Seen:	2021-04-09
+Lure:		AIPN
+Extracted URLs:
+		https://www[.]hrgenius-uk[.]com/search[.]php?wmsyxqsucnsif=
+		https://www[.]joseph-koenig-gymnasium[.]de/search[.]php?wmsyxqsucnsif=
+		https://www[.]hccpa[.]com[.]tw/search[.]php?wmsyxqsucnsif=
+Compromised Domains:
+		www[.]hccpa[.]com[.]tw
+		www[.]joseph-koenig-gymnasium[.]de
+		www[.]hrgenius-uk[.]com
